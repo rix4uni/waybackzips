@@ -1,5 +1,10 @@
 # waybackzips
 
+## Requirements
+```
+go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+```
+
 ## Installation
 ```
 git clone https://github.com/rix4uni/waybackzips.git

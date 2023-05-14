@@ -25,5 +25,5 @@ USAGE EXAMPLES:
     ./waybackzips.sh -s subs.txt -t 100 -f
     ./waybackzips.sh -u sensitive-urls.txt -t 100 -q
     or
-    ./waybackzips.sh -urls.txt -t 100 -q
+    ./waybackzips.sh -u urls.txt -t 100 -q
 ```
